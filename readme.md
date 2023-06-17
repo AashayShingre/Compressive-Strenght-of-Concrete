@@ -7,4 +7,4 @@ To get the data around 64 renowned research journals on the concerned topic were
 Henceforth, we want to,
 - Implement ANN to get more precise predictions.
 
-Note: This is different from the UCI dataset which is for the normal concrete. The compressive strength is highly non linear function.
+Note: This is different from the UCI dataset which is for the normal concrete. The compressive strength of this concrete has high variance and rely on various factors.
